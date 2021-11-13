@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
         - name: lab01
-          image: jjtanca/java01
+          image: jjramost/java01
           resources:
             limits:
               cpu: 500m
